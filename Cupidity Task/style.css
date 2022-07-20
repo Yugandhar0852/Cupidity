@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#homepage {
+    background-image: linear-gradient(#FF627F, #A2002B);
+}
+
+.flexbox {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2% 5%;
+}
+
+.mainHeading {
+    font-family: 'Pacifico', cursive;
+    color: white;
+    font-size: 5rem;
+    width: 30%;
+    font-weight: 100;
+}
+
+.subHeading {
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    margin-top: 0.5rem;
+    font-weight: 100;
+}
+
+.text {
+    font-family: 'Inter', sans-serif;
+    color: white;
+}
+
+.caProgram {
+    margin-top: 2rem;
+    font-weight: 600;
+}
+
+.hr {
+    border: 1px solid white;
+    width: 20%;
+}
+
+.congratulations {
+    margin-top: 2rem;
+    font-weight: 700;
+}
+
+.yourein {
+    margin-top: 2rem;
+    font-weight: 600;
+}
+
+.share {
+    margin-top: 2rem;
+    font-weight: 600;
+}
+
+.btn {
+        background-color: #FF627F;
+        border: none;
+        color: white;
+        padding: 15px 60px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 1.5rem;
+        border-radius: 15px;
+        margin: 2% 5%;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 600;
+}
+
+.image {
+    width: 70%;
+    margin: auto;
+}
+
+#footer{
+    text-align: center;
+    font-family: 'Inter';
+    color: white;
+    padding-bottom: 20px;
+}
